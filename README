@@ -5,7 +5,7 @@
 4. 在src目录下创建新的实现类romanizer.js
 5. 写一个测试用例测试romanizer.js的transform方法：
     * 输入：10
-    * 输出："X"
+    * 输出："X"git
 6. 在romanizer.js中引入romanize类完成实现
 7. git提交代码
 8. git push到代码库
